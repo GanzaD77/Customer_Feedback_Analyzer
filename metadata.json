@@ -1,0 +1,5 @@
+{
+  "name": "Customer Feedback Analyzer",
+  "description": "An AI-powered tool that analyzes customer feedback to identify sentiment, emotion, key topics, and provides actionable recommendations for business improvement.",
+  "requestFramePermissions": []
+}
